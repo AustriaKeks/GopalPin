@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <section name="feature">
+    <item name="ST">21F16F97-4704-4464-AECB-6E6A3C9E63B3</item>
+    <item name="Project">F0C21DB0-5284-419c-AF26-7D2B9C20F3EB</item>
+	<item name="Flash">1D08AEAC-1877-4301-B09F-72A91BAD5E29</item>
+	<item name="GPSDriver">80B5AC0A-C8B6-49ef-9C4A-AE85D3EDB268</item>
+  </section>
+  <section name="interactive">
+	<item name="SupportPinLock">C0EC0881-124F-44eb-A428-E4484CF61E05</item>
+ 	<item name="SupportFMT">617E7218-BFE9-4510-8298-6319C0F7D7A9</item>
+ </section>
+</root>
