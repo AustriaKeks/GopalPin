@@ -2,7 +2,7 @@
 Documenting my finds about the Medion GoPal anti-theft system(with next to no experience regarding the languages). My Device is a medion P4440
 
 
-##important discoveries:
+## important discoveries:
 ST.exe is responsible for triggering the pinlock window
 IOCTL_HAL_READ_SECRET/IOCTL_HAL_WRITE_SECRET seem to write/read to a hidden system partition, could store either the pin or registry ect.
 Editing the value of HKLM/Drivers/Builtin/BusIoctl triggers the pinlock window, along with it´s side effects to open. 
